@@ -1,0 +1,15 @@
+Package: expdiv
+Type: Package
+Title: Linear extension of the infinite divisibility for the exponential variable
+Version: 1.0.0
+Author: Alexis Huet
+Maintainer: Alexis Huet <name.last@somewhere.com>
+Description: Companion code of https://ahstat.github.io/Divisibility-of-the-exponential-distribution/ to extend the infinite divisibility of the exponential random variable, by providing the characteristic function and visualizations.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    CharFunToolR
+Suggests: 
+    testthat (>= 2.1.0)
+RoxygenNote: 7.0.2
